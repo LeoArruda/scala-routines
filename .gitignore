@@ -1,13 +1,7 @@
 *.class
 *.log
-.idea/
-project/
-target/
 
-.idea/*
-project/*
-target/*
-
-/.idea/
 /project/
 /target/
+/.idea/
+/data/ml-100k/
