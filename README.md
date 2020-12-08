@@ -1,3 +1,4 @@
+![image info](./logo.jpeg)
 # Scala and Spark Routines
 Scala and Spark routines Training & Testing repository
 
